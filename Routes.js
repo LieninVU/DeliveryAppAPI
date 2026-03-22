@@ -1,3 +1,8 @@
-const express = require("express");
-const router = express.router();
-const useControllers = require("")
+// Этот файл устарел. Роуты перемещены в папку /routes
+// Используйте:
+// - routes/authRoutes.js
+// - routes/menuRoutes.js
+// - routes/orderRoutes.js
+// - routes/adminRoutes.js
+
+module.exports = {};
